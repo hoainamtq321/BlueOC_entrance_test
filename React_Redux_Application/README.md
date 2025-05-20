@@ -15,7 +15,14 @@
 
 ## 📦 Cài đặt
 
-- git clone [https://github.com/ten-cua-ban/ten-du-an.git](https://github.com/hoainamtq321/BlueOC_entrance_test.git)
+- git clone https://github.com/hoainamtq321/BlueOC_entrance_test.git
 - cd ten-du-an
 - npm install
 - npm start
+
+## Demo
+![image](https://github.com/user-attachments/assets/3b9543b5-7d65-45b0-a984-007255a827af)
+
+![image](https://github.com/user-attachments/assets/149a2be9-0bdb-41f7-8eb8-82edf5260072)
+
+
